@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design principles and skills as well as building apps.
 - 🌱 I’m currently following the responsive web design course on freecodecamp which is coming to an end .
 - 💞️ I’m looking to collaborate with other people that are in their early stages of coding.
-- 📫 You can reach me in comments and by the email provided.
+- 📫 You can currently reach out via the comments section
 
 Thanks for reading.
 
