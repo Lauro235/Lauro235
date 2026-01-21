@@ -1,16 +1,13 @@
 # About me
 
-- 👋 Hi, I’m @Lauro235
-- 👨‍🎓 I'm a recent graduate of the School of Code
-- 💞️ I’m open to job offers and I'm actively looking for employment
-- ℹ️ This page will be for big projects however I've created other personal organisations to rationalise my repos. Please feel free to have a look through there as well if interested.
+- 👋 Hi, I’m @Lauro235 aka hippygroovedawg
+- 💞️ I’m currently building my portfolio
+- Right now I'm building an addon for Anki
 
-## Areas of work interest
+## Areas of interest
 
-- Fullstack development
-- Frontend development
-- Back end development
-- Junior testing engineer roles
-- User Experience roles
+- Human beings first
+- Opensource projects. I would love to get to a point where I'm able to donate monetarily to open source projects that have helped me.
+- AI (but human beings are more important to me)
 
-Thanks for reading.
+Thanks for reading!
